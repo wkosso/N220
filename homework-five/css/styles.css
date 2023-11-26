@@ -1,0 +1,23 @@
+.img-holder{
+    display: flex;
+ justify-content: center;
+
+}
+
+img{
+width: 500px;
+
+}
+
+.mybutton{
+    background-color: red;
+    width: 250px;
+    border-radius: 20px;
+    height: 30px;
+    color: whitesmoke;
+    border: none;
+    margin-top: -50px;
+    font-style: italic;
+    font-size: x-large;
+    text-transform: uppercase;
+}
